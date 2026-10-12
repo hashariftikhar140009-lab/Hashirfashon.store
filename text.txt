@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hashir Fashion - hashirfashion.store</title>
+<style>
+body{margin:0;background:#080808;color:#fff;font-family:Arial;text-align:center}
+.logo{font-size:28px;letter-spacing:4px;padding:20px;font-weight:bold}
+.logo span{color:#D4AF37}
+.domain{background:#D4AF37;color:#000;padding:10px;font-weight:bold}
+.hero{padding:50px 20px}
+.btn{background:#D4AF37;color:#000;padding:15px 35px;border-radius:30px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:20px}
+.card{background:#111;border:1px solid #222;border-radius:15px;margin:15px;padding:15px;display:inline-block;width:280px}
+.price{color:#D4AF37;font-weight:bold;font-size:20px;margin-top:10px}
+</style>
+</head>
+<body>
+<div class="domain">OFFICIAL - HASHIRFASHION.STORE</div>
+<div class="logo">HASHIR <span>FASHION</span></div>
+<div class="hero">
+<h1>MEN'S SUITS COLLECTION</h1>
+<p>Tailored for the Modern Gentleman<br>Premium Wool & Silk</p>
+<a class="btn" href="https://wa.me/923000000000">ORDER ON WHATSAPP</a>
+</div>
+<div>
+<div class="card"><h3>Classic Tuxedo</h3><p>Trade Expert Edition</p><div class="price">Rs. 12,500</div></div>
+<div class="card"><h3>Slim Wool Suit</h3><p>Business Collection</p><div class="price">Rs. 9,800</div></div>
+<div class="card"><h3>Velvet Blazer</h3><p>Wedding Wear</p><div class="price">Rs. 11,200</div></div>
+</div>
+<p style="color:#555;margin:40px">© 2026 hashirfashion.store - Sadqal Punjab<br>Cash on Delivery All Pakistan</p>
+</body>
+</html>
